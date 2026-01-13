@@ -86,6 +86,11 @@ npm test
 ```
 ---
 
+---
+
+## Youtube Link
+https://youtu.be/B3rFaEvGQfg 
+
 ## Time and Space Complexity
 
 - **Time Complexity:** O(n), where n is the number of animals in the input array. We loop through each animal once, and lookups in the `animalLegs` object are O(1).
